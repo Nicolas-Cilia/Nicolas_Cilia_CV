@@ -57,7 +57,10 @@ const experienceEntries = [
     date: "07/2023 – 09/2023",
     title: "Summer Volunteering",
     bullets: [
-      "Helped manage young tennis players"
+      "Helped manage young tennis players",
+      "Mentored a group of youth players, focusing on skill development, sportsmanship, and teamwork through structured drills and activities.",
+      "Provided positive reinforcement and encouragement to improve confidence and motivation.",
+      "Adapted teaching methods to accommodate various age groups and skill levels, ensuring an equitable learning experience for all participants."
     ]
   },
   {
