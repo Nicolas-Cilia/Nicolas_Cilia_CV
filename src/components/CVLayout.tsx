@@ -34,10 +34,12 @@ const experienceEntries = [
     date: "07/2025 – 09/2025",
     title: "Full Stack Developer Intern",
     bullets: [
-      "Collaborated with a scrum team to build an app from the ground up, including modeling database schema, designing RESTful API, and building the UI",
-      "Built and deployed a custom AI chatbot for a museum, integrating it with existing content systems",
-      "Designed and implemented a custom web interface with responsive, accessible UI",
-      "Automated workflows in n8n to connect the app with external services"
+      "Worked in a Scrum team as a full-stack developer to build apps from the ground up.",
+      "Built and deployed a custom AI chatbot for a museum, integrating it with existing content systems to answer visitor questions and surface exhibit info.",
+      "Designed and implemented a custom web interface with a responsive, accessible UI, improving page performance and usability.",
+      "Automated workflows in n8n to connect the app with external services.",
+      "Participated in daily Agile/Scrum meetings to communicate progress updates and coordinate development goals.",
+      "Resolved issues quickly by troubleshooting problems reported by users."
     ]
   },
   {
@@ -63,7 +65,15 @@ const experienceEntries = [
     date: "10/2021 – 04/2024",
     title: "Founder",
     bullets: [
-      "Specialized in making homes smarter and offered consulting around crypto"
+      "Specialized in making homes smarter and offered consulting around crypto", 
+      "Provided smart-home automation consulting and installations.",
+      "Built custom IoT, automation, and crypto-mining solutions.",
+      "Managed customer communication, project planning, and delivery.",
+      "Utilized CAD software to design custom 3D-printed components, solving specific hardware integration challenges for client project",
+      "Offered general IT troubleshooting and technical support",
+      "Documented technical procedures to ensure long-term maintenance and client self-sufficiency.",
+      "Provisioned Linux servers and managed virtual environments.",
+      "Managed project budgets, invoicing, and hardware procurement for all client engagements."
     ]
   }
 ];
@@ -74,7 +84,7 @@ const awardEntries = [
     date: "2023 – 2027",
     title: "Dean's List",
     bullets: [
-      "Ended term with a GPA of 3.75 or higher",
+      "Ended term with a GPA of 3.75 or higher x 1 term",
       "Received recognition from the University of Oregon"
     ]
   },
