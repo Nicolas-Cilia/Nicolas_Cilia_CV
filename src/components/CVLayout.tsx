@@ -85,9 +85,9 @@ const awardEntries = [
   {
     organization: "University of Oregon",
     date: "2023 – 2027",
-    title: "Dean's List",
+    title: "Dean's List x 1 term",
     bullets: [
-      "Ended term with a GPA of 3.75 or higher x 1 term",
+      "Ended term with a GPA of 3.75",
       "Received recognition from the University of Oregon"
     ]
   },
