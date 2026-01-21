@@ -31,7 +31,7 @@ const educationEntries = [
 const experienceEntries = [
   {
     organization: "Darwoft",
-    date: "07/2025 – 09/2025",
+    date: "06/2025 – 09/2025",
     title: "Full Stack Developer Intern",
     bullets: [
       "Worked in a Scrum team as a full-stack developer to build apps from the ground up.",
